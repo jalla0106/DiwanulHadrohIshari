@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dd3333</color>
+    <color name="colorPrimaryDark">#d11616</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorwhite">#FFffff</color>
+    <color name="colorgrapefruit">#ed5565</color>
+    <color name="colorgrapefruitDark">#da4453</color>
+    <color name="colorbittersweet">#fc6e61</color>
+    <color name="colorbittersweetDark">#E9573f</color>
+    <color name="colorflower">#FFce54</color>
+    <color name="colorGraas">#A0D468</color>
+    <color name="colorGraasDark">#8cc152</color>
+    <color name="colorBluejens">#509cec</color>
+    <color name="colorfBluejensDark">#4a89DC</color>
+    <color name="colorLavender">#AC92EC</color>
+    <color name="colorLavenderDark">#967ADC</color>
+    <color name="colorMint">#48CFAD</color>
+    <color name="colorMintDark">#37BC9B</color>
+    <color name="colorAqua">#4fc</color>
+    <color name="colorAquaDark">#3BAFDA</color>
+    <color name="colorPinkRose">#EC87c0</color>
+    <color name="colorPinkRoseDark">#D770AD</color>
+    <color name="NavigationIcon">#dae9f6</color>
+    <color name="colorNavigationIconDark">#ffffff</color>
+
+</resources>

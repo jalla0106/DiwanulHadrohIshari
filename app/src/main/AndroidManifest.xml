@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="android.example.diwanulhadrohishari">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".TahtimActivity"></activity>
+        <activity android:name=".HabibunActivity" />
+        <activity android:name=".TaalaubinaActivity" />
+        <activity android:name=".SollaActivity" />
+        <activity android:name=".YamaulidanActivity" />
+        <activity android:name=".TaalamActivity" />
+        <activity android:name=".MistluhuActivity" />
+        <activity android:name=".FazatActivity" />
+        <activity android:name=".FaturquActivity" />
+        <activity android:name=".MahalulActivity" />
+        <activity android:name=".BadatlanaActivity" />
+        <activity android:name=".ShollaalaikaActivity" />
+        <activity android:name=".WulidalActivity" />
+        <activity android:name=".TanaqqoltaActivity" />
+        <activity android:name=".BisyahriActivity" />
+        <activity android:name=".IbtidaActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
